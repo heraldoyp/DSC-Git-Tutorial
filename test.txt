@@ -4,3 +4,4 @@ Tes github dari ukm DSC
 
 Slave's commit here
 Slave doesn't know what he's doing
+Slave checking master code
