@@ -1,5 +1,6 @@
 // Made by master
 
 Tes github dari ukm DSC
+Master checking out his pushes
 
 Slave's commit here
